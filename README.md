@@ -1,5 +1,6 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Name: Nguyễn Thiện Minh
+* Student ID: 2410630
+
